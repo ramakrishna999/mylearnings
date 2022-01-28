@@ -10,4 +10,8 @@ public class First{
   public static void hello(){
     System.out.println("I am hello method");
   }
+
+  public static void hi(){
+    System.out.println("I am hi...");
+  }
 }
